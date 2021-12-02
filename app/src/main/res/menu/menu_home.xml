@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_topFavorites"
+        android:icon="@drawable/ic_baseline_flight_24"
+        android:title="Top favorites"/>
+    <item android:id="@+id/tab_map"
+        android:icon="@drawable/icon_location"
+        android:title="Map"/>
+    <item android:id="@+id/tab_locati"
+        android:icon="@drawable/ic_baseline_flight_24"
+        android:title="Locati"/>
+</menu>
